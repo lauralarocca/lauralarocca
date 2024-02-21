@@ -62,7 +62,7 @@ Aplicação para gerenciar um ateliê de costuras. Conta com módulos de cliente
 
 ## 📌 Onde me encontrar
 
-💬 Se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo sobre engenharia de software, desenvolvimento de sistemas, suporte técnico ou qualquer outro tópico relacionado, estou sempre disponível para conversar!
+💬 Se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo sobre engenharia de software, desenvolvimento de sistemas, suporte técnico ou qualquer outro tópico relacionado, estou disponível para conversar!
 
 [![Site](https://img.shields.io/badge/-Site-blue?style=flat-square&logo=linktree&logoColor=white&link=https://lauralarocca.moonlab.com.br/)](https://lauralarocca.moonlab.com.br/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauralaroccaferreira/)](https://www.linkedin.com/in/lauralaroccaferreira/)
